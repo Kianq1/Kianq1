@@ -37,8 +37,8 @@
 ## 📬 Contact Me
 - 📧 Email: kianpoo.125@gmail.com
 - 💬 Telegram: @Kianpoo11
-- 🌐 Website/Portfolio: I'm working on it!
-
+- 🌐 Website: I'm working on it!
+- ℹ️ LinkedIn: https://www.linkedin.com/in/kian-poorali-202ba73a1?
 ---
 
 ### ⭐ If you like my work, consider giving a star to my repos! And don't forget to put on sunglasses everyday!

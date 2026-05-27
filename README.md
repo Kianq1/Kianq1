@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="image_1779864984173.jpeg" width="100%" />
+</p>
 # 👋 Hi, I'm Kian
 
 💻 **Frontend Develoer• Music Producer• Game Developer •**  

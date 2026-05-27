@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![Kian's GitHub Stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianq1)](https://github.com/anuraghazra/github-readme-stats))
+([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianq1)](https://github.com/anuraghazra/github-readme-stats))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianq1&layout=compact&theme=tokyonight)
 

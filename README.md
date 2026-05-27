@@ -2,7 +2,7 @@
 </p>
 # 👋 Hi, I'm Kian
 
-💻 **Frontend Develoer• Music Producer• Game Developer •**  
+💻 **Frontend Developer • Music Producer • Game Developer •**  
 🕶️ I love creating everything.
 
 ---

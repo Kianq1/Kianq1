@@ -27,9 +27,9 @@
 
 ## 📊 GitHub Stats
 
-![Kian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Kian's GitHub Stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianq1)](https://github.com/anuraghazra/github-readme-stats))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianq1&layout=compact&theme=tokyonight)
 
 
 ---

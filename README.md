@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="image_1779864984173.jpeg" width="100%" />
+![Header](image_1779864984173.jpeg)
 </p>
 # 👋 Hi, I'm Kian
 
